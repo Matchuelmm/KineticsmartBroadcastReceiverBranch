@@ -1,0 +1,2 @@
+# KineticsmartBroadcastReceiverBranch
+ BroadCastReceiver
